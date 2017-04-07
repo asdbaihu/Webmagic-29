@@ -1,0 +1,1 @@
+-Dlog4j.configuration=File:C:\Java\SpringMVCDemo-master\SpringMVCDemo-master\src\main\resources\log4j.properties
